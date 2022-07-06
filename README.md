@@ -22,7 +22,8 @@ I am Deepak Sirohiwal, Data Scientist with a strong background in Statistics and
 ### Data visualization 
 <div>
  <img alt='Seaborn' src='https://seaborn.pydata.org/_images/logo-tall-lightbg.svg' width="70"/>
- <img alt='Matplotlib' src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width='70'/>
+ 
+ <img alt='Matplotlib' src="https://steemitimages.com/p/3W72119s5BjWMGm4Xa2MvD5AT2bJsSA8F9WeC71v1s1fKfGkK9mMKuc3LcvF4KigbWg9UsrpEPZ2FB9Vm8sji1KVvrHckwB5MKmfemuxKBARCxxxL9CQX8?format=match&mode=fit&width=640" width='70'/>
 </div>
 <div> 
 
@@ -31,7 +32,7 @@ I am Deepak Sirohiwal, Data Scientist with a strong background in Statistics and
 
 ### Database
 <div>
- <img alt='PostgresSQL' src='https://symbols.getvecta.com/stencil_92/15_postgresql.e12ac789ea.svg' width="70"/>
+ <img alt='PostgresSQL' src='https://symbols.getvecta.com/stencil_92/18_postgresql-vertical.ff622f78b3.svg' width="70"/>
  <img alt='MONGODB' src="https://www.kindpng.com/picc/m/385-3850312_file-mongodb-mongodb-png-transparent-png.png" width='70'/>
 </div>
 <div> 
@@ -41,6 +42,6 @@ I am Deepak Sirohiwal, Data Scientist with a strong background in Statistics and
 
 ## Get in touch! 
 <div>
-  <a href='https://twitter.com/deepaksirohiwal'><img alt='twitter'  src='https://user-images.githubusercontent.com/38135521/146765729-6f4c938f-d25a-4f52-9133-d2eb9034eb41.png'       width='70'/> </a>
-  <a href='https://www.linkedin.com/in/deepak-sirohiwal-22330613a/'><img alt='linkedin' src='https://user-images.githubusercontent.com/38135521/146765622-61ada7b8-ce41-4728-8160-f50ddc85c89f.png' width='70' /></a>
+  <a href='https://twitter.com/deepaksirohiwal'><img alt='twitter'  src='https://user-images.githubusercontent.com/38135521/146765729-6f4c938f-d25a-4f52-9133-d2eb9034eb41.png'       width='70'/>https://twitter.com/deepaksirohiwal </a> <p></p>
+  <a href='https://www.linkedin.com/in/deepak-sirohiwal-22330613a/'><img alt='linkedin' src='https://user-images.githubusercontent.com/38135521/146765622-61ada7b8-ce41-4728-8160-f50ddc85c89f.png' width='70' />https://www.linkedin.com/in/deepak-sirohiwal-22330613a/</a>
 </div>
