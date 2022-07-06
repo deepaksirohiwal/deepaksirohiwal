@@ -8,21 +8,23 @@ I am Deepak Sirohiwal, Data Scientist with a strong background in Statistics and
   <img alt='HTML' src='https://user-images.githubusercontent.com/38135521/146757259-aaf405e1-5e67-4525-8b5d-195ced3b5ae1.png' width="50"/>
   <img alt='Python' src='https://user-images.githubusercontent.com/38135521/146757143-32388add-1379-4ea5-bbbb-b5add3973634.png' width="50"/>
  </div>
+ 
 ### Python Libraries
 <div>
- <img alt='Scikit-learn' src='https://www.pngegg.com/en/png-eticj' width="50"/>
- <img at="Pandas" src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg" width="50"/>
+ <img alt='Scikit-learn' src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052' width="50"/>
+ <img at="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width="50"/>
 </div>
-#### Data visualization 
+
+### Data visualization 
 <div>
- <img alt='Seaborn' src='https://seaborn.pydata.org/citing.html' width="50"/>
- <img alt='Matplotlib" src="https://matplotlib.org/3.2.2/users/navigation_toolbar.html" width='50'/>
+ <img alt='Seaborn' src='https://seaborn.pydata.org/_images/logo-tall-lightbg.svg' width="50"/>
+ <img alt='Matplotlib' src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width='50'/>
 </div>
 
 ### Database
 <div>
- <img alt='PostgresSQL' src='https://iconscout.com/icons/postgresql' width="50"/>
- <img alt='MONGODB" src="https://iconscout.com/icons/mongodb" width='50'/>
+ <img alt='PostgresSQL' src='https://symbols.getvecta.com/stencil_92/18_postgresql-vertical.ff622f78b3.svg' width="50"/>
+ <img alt='MONGODB' src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width='50'/>
 </div>
 
 Get in touch! 
