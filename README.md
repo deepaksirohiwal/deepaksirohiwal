@@ -11,24 +11,24 @@ I am Deepak Sirohiwal, Data Scientist with a strong background in Statistics and
  
 ### Python Libraries
 <div>
- <img alt='Scikit-learn' src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052' width="50"/>
- <img at="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width="50"/>
+ <img alt='Scikit-learn' src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052' width="70" />
+ <img at="Pandas" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" width="70"/>
 </div>
 
 ### Data visualization 
 <div>
- <img alt='Seaborn' src='https://seaborn.pydata.org/_images/logo-tall-lightbg.svg' width="50"/>
- <img alt='Matplotlib' src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width='50'/>
+ <img alt='Seaborn' src='https://seaborn.pydata.org/_images/logo-tall-lightbg.svg' width="70"/>
+ <img alt='Matplotlib' src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width='70'/>
 </div>
 
 ### Database
 <div>
- <img alt='PostgresSQL' src='https://symbols.getvecta.com/stencil_92/18_postgresql-vertical.ff622f78b3.svg' width="50"/>
- <img alt='MONGODB' src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width='50'/>
+ <img alt='PostgresSQL' src='https://symbols.getvecta.com/stencil_92/15_postgresql.e12ac789ea.svg' width="70"/>
+ <img alt='MONGODB' src="https://www.kindpng.com/picc/m/385-3850312_file-mongodb-mongodb-png-transparent-png.png" width='70'/>
 </div>
 
 Get in touch! 
 <div>
-  <a href='https://twitter.com/deepaksirohiwal'><img alt='twitter'  src='https://user-images.githubusercontent.com/38135521/146765729-6f4c938f-d25a-4f52-9133-d2eb9034eb41.png'       width='50'/> </a>
-  <a href='https://www.linkedin.com/in/deepak-sirohiwal-22330613a/'><img alt='linkedin' src='https://user-images.githubusercontent.com/38135521/146765622-61ada7b8-ce41-4728-8160-f50ddc85c89f.png' width='50' /></a>
+  <a href='https://twitter.com/deepaksirohiwal'><img alt='twitter'  src='https://user-images.githubusercontent.com/38135521/146765729-6f4c938f-d25a-4f52-9133-d2eb9034eb41.png'       width='70'/> </a>
+  <a href='https://www.linkedin.com/in/deepak-sirohiwal-22330613a/'><img alt='linkedin' src='https://user-images.githubusercontent.com/38135521/146765622-61ada7b8-ce41-4728-8160-f50ddc85c89f.png' width='70' /></a>
 </div>
