@@ -1,4 +1,4 @@
-Hi there :raising_hand:
+Hi :raising_hand:
 
 I am Deepak Sirohiwal
 
