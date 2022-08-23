@@ -1,4 +1,3 @@
-# About me 
 Hi there :raising_hand:
 
 I am Deepak Sirohiwal, Data Scientist with a strong background in Statistics and Mathematics for machine learning. Currently studying Data Science at Indian Institute of Technology (IIT), Madras, India.
