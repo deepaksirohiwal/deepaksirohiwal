@@ -1,8 +1,8 @@
 Hi :raising_hand:
 
 I am Deepak Sirohiwal
-
-Currently studying Data Science and Programming at Indian Institute of Technology (IIT), Madras, India.
+![](https://komarev.com/ghpvc/?username=deepaksirohiwal&color=blue)
+- Currently learning Data Science and Application development
 
 ## Stack I have worked with
 
