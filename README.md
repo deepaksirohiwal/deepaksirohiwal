@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepaksirohiwal" target="blank"><img src="https://img.shields.io/twitter/follow/deepaksirohiwal?logo=twitter&style=for-the-badge" alt="deepaksirohiwal" /></a> </p>
 
-- 🌱 I’m currently learning **Application development, Business Analytics**
+- 🌱 I’m currently learning **Application development and Java**
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
