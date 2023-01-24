@@ -19,7 +19,8 @@
 
 - 📫 Reach me **deepaksirohiwall@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YqFjxlaGI3YFLNlXYT5pyoPKydqr3npl/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1us5o1hCDSd8qRrxSLH8GSuaJj0VrzVAU/view?usp=share_link)
+
 
 - ⚡Fun fact **Ich kann Deutsch sprechen**
 
