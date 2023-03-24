@@ -10,7 +10,7 @@
 🔭 I’m currently learning Application development and Java<br>
 👯 I’m looking to collaborate on machine learning and application development projects<br>
 📫 Reach me deepaksirohiwall@gmail.com<br>
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1us5o1hCDSd8qRrxSLH8GSuaJj0VrzVAU/view?usp=share_link">Resume</a><br>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1mK1uH2qnSg3BvG-ltpe_IAq70V4UUrmX/view?usp=share_link">Resume</a><br>
 💬Ask me about Python, Machine Learning, Data Visualization, Flask<br>
 👨‍💻 All of my projects are available at GitHub and Kaggle<br>
 ⚡ Fun fact:<strong>Ich kann Deutsch sprechen</strong>
